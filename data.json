@@ -1,0 +1,79 @@
+[
+    {
+        "song_name": "Yesterday",
+        "duration": 240,
+        "singers": [
+            "noon",
+            "polo"
+        ],
+        "score": 20
+    },
+    {
+        "song_name": "Yesterday",
+        "duration": 240,
+        "singers": [
+            "noon",
+            "polo"
+        ],
+        "score": 20
+    },
+    {
+        "song_name": "Yester",
+        "duration": 300,
+        "singers": [
+            "noon",
+            "fai"
+        ],
+        "score": 0
+    },
+    {
+        "song_name": "Yester",
+        "duration": 240,
+        "singers": [
+            "noon",
+            "fai"
+        ],
+        "score": 80
+    },
+    {
+        "song_name": "jkkll",
+        "duration": 345,
+        "singers": [
+            "gbh"
+        ],
+        "score": 20
+    },
+    {
+        "song_name": "fhghk",
+        "duration": 346,
+        "singers": [
+            "jjkkk"
+        ],
+        "score": 65
+    },
+    {
+        "song_name": "sfvgj",
+        "duration": 345,
+        "singers": [
+            "hjik"
+        ],
+        "score": 11
+    },
+    {
+        "song_name": "bjbor",
+        "duration": 347,
+        "singers": [
+            "kll"
+        ],
+        "score": 56
+    },
+    {
+        "song_name": "cvg",
+        "duration": 345,
+        "singers": [
+            "jjk",
+            "hnj"
+        ],
+        "score": 70
+    }
+]
